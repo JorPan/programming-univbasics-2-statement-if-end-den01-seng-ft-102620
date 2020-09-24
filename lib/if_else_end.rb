@@ -1,2 +1,2 @@
 # Write your solution here
-puts time.now.seconds
+if time.now =
